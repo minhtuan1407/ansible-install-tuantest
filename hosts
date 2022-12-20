@@ -2,5 +2,5 @@
 192.168.2.101
 
 [minhtuan:vars]
-ansible_user=root
+ansible_user=vagrant
 ansible_port=8822
