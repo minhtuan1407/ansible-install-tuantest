@@ -1,5 +1,5 @@
 [minhtuan]
-192.168.2.100
+192.168.2.101
 
 [minhtuan:vars]
 ansible_user=root
